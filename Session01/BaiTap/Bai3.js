@@ -1,0 +1,12 @@
+"use strict";
+let variableA = 10;
+let variableB = 4;
+let variableC;
+variableC = variableA + variableB;
+console.log("Tổng =", variableC);
+variableC = variableA - variableB;
+console.log("Hiệu =", variableC);
+variableC = variableA * variableB;
+console.log("Tích =", variableC);
+variableC = variableA / variableB;
+console.log("Thương =", variableC);

@@ -1,0 +1,1 @@
+const persons: [string,number] = ["Vương",24]
